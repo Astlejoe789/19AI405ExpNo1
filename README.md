@@ -39,7 +39,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-<h3>PROGRAM</h3>h3>:
+<h3>PROGRAM</h3>:
 
 ```
 import random
